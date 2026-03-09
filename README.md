@@ -79,9 +79,9 @@ Construir projetos reais, evoluir minhas habilidades em programação e me torna
 
 ### 🌐 Redes sociais
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin)]()
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/klebe-alves-da-silva-04133a3b5/)
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge\&logo=instagram)]([SEU_INSTAGRAM](https://www.instagram.com/harmanny.oficial?igsh=MXh5aTBwcGVoeXc1OQ==)](https://www.linkedin.com/in/klebe-alves-da-silva-04133a3b5/))
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge\&logo=instagram)](https://www.instagram.com/harmanny.oficial?igsh=MXh5aTBwcGVoeXc1OQ==)
 
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge\&logo=github)](https://github.com/harmannyoficial)
 
