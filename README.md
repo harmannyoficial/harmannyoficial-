@@ -68,7 +68,10 @@ Construir projetos reais, evoluir minhas habilidades em programação e me torna
 ## 📫 Contato
 
 📧 [harmanny.oficial@gmail.com](mailto:harmanny.oficial@gmail.com)
-🌎 https://github.com/harmannyoficial
+
+## 📫 Contato
+
+📧 Email: [harmanny.oficial@gmail.com](mailto:harmanny.oficial@gmail.com)
 
 ## 📫 Contato
 
@@ -76,9 +79,10 @@ Construir projetos reais, evoluir minhas habilidades em programação e me torna
 
 ### 🌐 Redes sociais
 
-[![LinkedIn](https://www.linkedin.com/in/klebe-alves-da-silva-04133a3b5/)](SEU_LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin)]()
 
-[![Instagram](https://www.instagram.com/harmanny.oficial?igsh=MXh5aTBwcGVoeXc1OQ==)](SEU_INSTAGRAM)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge\&logo=instagram)]([SEU_INSTAGRAM](https://www.instagram.com/harmanny.oficial?igsh=MXh5aTBwcGVoeXc1OQ==)](https://www.linkedin.com/in/klebe-alves-da-silva-04133a3b5/))
 
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge\&logo=github)](https://github.com/harmannyoficial)
+
 
