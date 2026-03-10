@@ -67,14 +67,6 @@ Construir projetos reais, evoluir minhas habilidades em programação e me torna
 
 ## 📫 Contato
 
-📧 [harmanny.oficial@gmail.com](mailto:harmanny.oficial@gmail.com)
-
-## 📫 Contato
-
-📧 Email: [harmanny.oficial@gmail.com](mailto:harmanny.oficial@gmail.com)
-
-## 📫 Contato
-
 📧 Email: [harmanny.oficial@gmail.com](mailto:harmanny.oficial@gmail.com)
 
 ### 🌐 Redes sociais
